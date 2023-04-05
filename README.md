@@ -1,4 +1,4 @@
-# PS4JB
+# PS4JB V2
 
 This is an Offline full chain exploit for PS4 firmware 6.72, 7.02, 7.55 & 9.00 with 100% Success Rate.
 
