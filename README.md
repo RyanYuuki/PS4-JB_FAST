@@ -5,7 +5,7 @@ This is an Offline full chain exploit for PS4 firmware 6.72, 7.02, 7.55 & 9.00 w
 ## Steps
 
 * Delete Cookies and Clear Website Data
-* Open the Exploit Page https://ryanyuuki.github.io/PS4_JB_9.00/
+* Open the Exploit Page https://ryanyuuki.github.io/PS4-JB_FAST/
 * The Exploit gets cached. Turn off the Internet and Open the page and run the Jailbreak (Old Exploit/New Exploit)
 * Run GoldHEN after Jailbreak is complete
 * Once Payload loaded successfully, Open the Game
